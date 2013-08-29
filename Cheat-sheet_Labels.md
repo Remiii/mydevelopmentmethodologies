@@ -2,10 +2,11 @@
 
 ## Issues
 
-bug (red)
-duplicate
-enhancement
-invalid
-question (blue)
-wontfix (green)
-bug paradize (pink)
+* bug (red)
+* duplicate
+* enhancement
+* invalid
+* question (blue)
+* wontfix (green)
+* bug paradize (pink)
+
