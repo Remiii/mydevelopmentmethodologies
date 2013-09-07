@@ -14,7 +14,7 @@ There are to kind of tags in tasks/issues/backlogs : 'type' and 'priority'. Each
 * wontfix (green)
 * bug paradize (pink)
 
-# Priority
+### Priority
 
 * high priority (red)
 * normal priority (orange)
