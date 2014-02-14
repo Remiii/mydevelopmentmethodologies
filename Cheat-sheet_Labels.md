@@ -16,12 +16,12 @@ There are to kind of tags in tasks/issues/backlogs : 'type' and 'priority'. Each
 
 ### Priority
 
-* high priority (red)
-* normal priority (orange)
-* low priority (yellow)
+* L3 "high priority" (red)
+* L2"normal priority" (orange)
+* L1 "low priority" (yellow)
 
-* realtime (red)
-* paradize (yellow)
+* ! "realtime" ! (red)
+* L0 "paradize" (yellow)
 
 Realtime and Paradize can be used for specific priority.
 
