@@ -7,11 +7,11 @@ There are to kind of tags in tasks/issues/backlogs : 'type' and 'priority'. Each
 ### Type
 
 * <code>bug</code> (red)
-* <code>duplicate</code>
-* <code>enhancement</code>
-* <code>invalid</code>
-* <code>question</code> (blue)
-* <code>wontfix</code> (green)
+* <code>duplicate</code> (gray)
+* <code>enhancement</code> (blue)
+* <code>invalid</code> (grey)
+* <code>question</code> (pink)
+* <code>wontfix</code> (-)
 * <code>bug paradize</code> (pink)
 
 ### Priority
