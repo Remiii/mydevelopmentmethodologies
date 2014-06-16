@@ -6,21 +6,24 @@ There are to kind of tags in tasks/issues/backlogs : 'type' and 'priority'. Each
 
 ### Type
 
-* <code>bug</code> (red)
-* <code>duplicate</code> (gray)
-* <code>enhancement</code> (blue)
-* <code>invalid</code> (grey)
-* <code>question</code> (pink)
-* <code>wontfix</code> (-)
+* <code>bug</code> (#FF0000)
+* <code>duplicate</code> (#CCCCCC)
+* <code>help wanted</code> (#159818)
+* <code>enhancement</code> (#84B6EB)
+* <code>invalid</code> (#E6E6E6)
+* <code>question</code> (#CC317C)
+* <code>wontfix</code> (#FFFFFF)
 * <code>bug paradize</code> (pink)
 
 ### Priority
 
-* <code>L3 "high priority"</code> (red)
-* <code>L2 "normal priority"</code> (orange)
-* <code>L1 "low priority"</code> (yellow)
-* <code>! "realtime" !</code> (red)
-* <code>L0 "paradize"</code> (yellow)
+* <code>L4 ! "realtime" !</code> (#FF0000)
+* <code>L3 "high priority"</code> (#FE2E2E)
+* <code>L2 "normal priority"</code> (#FF8000)
+* <code>L1 "low priority"</code> (#FACC2E)
+* <code>L0 "paradize"</code> (#F781D8)
+
+
 
 Realtime and Paradize can be used for specific priority.
 
