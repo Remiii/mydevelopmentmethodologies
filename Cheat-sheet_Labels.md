@@ -1,8 +1,7 @@
 # All the labels for tasks
+## Labels Issues
 
-## Tasks/Issues/Backlogs
-
-There are to kind of tags in tasks/issues/backlogs : 'type' and 'priority'. Each issu can have one priority and one or more types.
+There are 3 kind of tags in 'GitHub Issues': 'scrum', 'priority' and 'type. Each issue can have one scrum state, one priority and one or more types.
 
 ### Scrum
 
