@@ -15,6 +15,13 @@ There are to kind of tags in tasks/issues/backlogs : 'type' and 'priority'. Each
 * <code>wontfix</code> (#FFFFFF)
 * <code>bug paradize</code> (pink)
 
+### scrum
+
+* <code>S0 "todo"</code> (#AAAAAA)
+* <code>S1 "in porgress"</code> (#AAAAAA)
+* <code>S2 "testing"</code> (#AAAAAA)
+* <code>S3 "done"</code> (#AAAAAA)
+
 ### Priority
 
 * <code>L4 ! "realtime" !</code> (#FF0000)
