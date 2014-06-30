@@ -5,6 +5,7 @@ There are 3 kind of tags in 'GitHub Issues': 'scrum', 'priority' and 'type. Each
 
 ### Scrum
 
+* <code>S00 "backlog"</code> (#FFFFFF)
 * <code>S0 "todo"</code> (#AAAAAA)
 * <code>S1 "in porgress"</code> (#AAAAAA)
 * <code>S2 "testing"</code> (#AAAAAA)
