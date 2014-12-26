@@ -30,6 +30,6 @@ Realtime and Paradize can be used for specific priority.
 * <code>invalid</code> (#E6E6E6)
 * <code>question</code> (#CC317C)
 * <code>wontfix</code> (#FFFFFF)
-* <code>bug paradize</code> (pink)
+* <code>bug paradize</code> (#F781D8)
 
 
