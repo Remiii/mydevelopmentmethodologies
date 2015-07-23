@@ -11,6 +11,8 @@ There are 3 kind of tags in 'GitHub Issues': 'scrum', 'priority' and 'type. Each
 * <code>S2 "testing"</code> (#AAAAAA)
 * <code>S3 "done"</code> (#AAAAAA)
 
+* <code>SX "cron"</code> (#AAAAAA)
+
 ### Priority
 
 * <code>L4 ! "realtime" !</code> (#FF0000)
